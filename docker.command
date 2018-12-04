@@ -12,3 +12,14 @@ get inetrnal ip from host machine:
                                   docker-machine ip
 load on browser :
                 http://192.168.99.100:8888/tree   with 192.168.99.100 as ip 
+
+
+Install Package in container
+---------------------------
+docker exec <containerId> pip install tensorflow
+
+
+Exit the container and commit the changes
+-----------------------------------------
+docker commit CONTAINER_ID nginx-template
+
