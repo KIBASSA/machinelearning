@@ -21,5 +21,5 @@ docker exec <containerId> pip install tensorflow
 
 Exit the container and commit the changes
 -----------------------------------------
-docker commit CONTAINER_ID nginx-template
+docker commit CONTAINER_ID NAME_IMAGE
 
