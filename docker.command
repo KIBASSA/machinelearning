@@ -7,3 +7,8 @@ docker rm -f CONTAINER_ID
 Launch Jupyter
 -------------
 docker run -p 8888:8888 --hostname localhost jupyter/minimal-notebook
+
+get inetrnal ip from host machine:
+                                  docker-machine ip
+load on browser :
+                http://192.168.99.100:8888/tree   with 192.168.99.100 as ip 
