@@ -26,3 +26,6 @@ Exit the container and commit the changes
 -----------------------------------------
 docker commit CONTAINER_ID NAME_IMAGE
 
+Disk Size
+--------
+docker ps -s
