@@ -8,6 +8,9 @@ Launch Jupyter
 -------------
 docker run -p 8888:8888 --hostname localhost jupyter/minimal-notebook
 
+with tensorflow:
+docker run -p 8888:8888 --hostname localhost jupyter/tensorflow-notebook 
+
 get inetrnal ip from host machine:
                                   docker-machine ip
 load on browser :
