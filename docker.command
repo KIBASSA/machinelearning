@@ -35,4 +35,11 @@ docker system df
 
 For Hyper-V
 -----------
-docker-machine create --driver hyperv vm
+ docker-machine create --driver hyperv vm
+
+  Create Virtual switch manager
+  ----------------------------
+  https://docs.docker.com/machine/drivers/hyper-v/#example
+  
+  
+  
