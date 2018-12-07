@@ -31,3 +31,8 @@ Disk Size
 docker ps -s
 docker ps --size
 docker system df
+
+
+For Hyper-V
+-----------
+docker-machine create --driver hyperv vm
