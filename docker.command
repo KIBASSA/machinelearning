@@ -2,7 +2,9 @@
 docker ps : list all docker's container
 docker exec -t -i container_name /bin/bash : log in docker conatiner in bash mode
 docker rm -f CONTAINER_ID
-
+docker kill $(docker ps -q) : kill all running containers
+docker rm $(docker ps -a -q): delete all stopped containers with
+docker rmi $(docker images -q):delete all images with
 
 Launch Jupyter
 -------------
@@ -41,5 +43,5 @@ For Hyper-V
   ----------------------------
   https://docs.docker.com/machine/drivers/hyper-v/#example
   
-  
+ 
   
