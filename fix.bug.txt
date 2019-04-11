@@ -1,0 +1,2 @@
+bug : OSError: [Errno 28] No space left on device Docker, but I have space
+fix: docker system prune
