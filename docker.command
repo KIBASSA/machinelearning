@@ -1,6 +1,9 @@
 
 docker ps : list all docker's container
+
 docker exec -t -i container_name /bin/bash : log in docker conatiner in bash mode
+docker exec -it -u root container_id bash   : log in docker in in bash mode with root user
+
 docker rm -f CONTAINER_ID
 docker kill $(docker ps -q) : kill all running containers
 docker rm $(docker ps -a -q): delete all stopped containers with
