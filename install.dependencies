@@ -7,5 +7,9 @@ installation on windows
 -----------------------
 - install python 3 : https://www.python.org/downloads/
 - 
-- on command line interface, go to "C:\Program Files\Python36\Scripts" and execute "pip" instruction to install all dependencies
+- on command line interface, go to "C:\Program Files\Python36\Scripts" and execute "pip" instruction to install all dependencies:
+  * pip install numpy
+  * pip install pandas
+  * pip install seaborn 
+  ...
 
