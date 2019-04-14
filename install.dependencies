@@ -11,5 +11,7 @@ installation on windows
   * pip install numpy
   * pip install pandas
   * pip install seaborn 
+  * pip install opencv-contrib-python --upgrade 
+  * pip install opencv-python
   ...
 
