@@ -1,0 +1,2 @@
+https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras
+https://github.com/aanchal1308/Fraud-detection

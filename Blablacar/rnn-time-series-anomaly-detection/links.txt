@@ -1,0 +1,15 @@
+https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection
+Il s'agit d'une implémentation d'un détecteur d'anomalies de séries temporelles basé sur RNN, qui consiste en une stratégie en deux étapes de prédiction de séries temporelles et de calcul du score d'anomalies.
+
+
+https://github.com/khundman/telemanom
+
+Un cadre d'utilisation des LSTM pour détecter les anomalies dans les données de séries chronologiques multivariées. 
+Comprend des données sur les anomalies des vaisseaux spatiaux et des expériences du Mars Science Laboratory et des missions SMAP
+
+
+https://github.com/akash13singh/lstm_anomaly_thesis
+
+https://github.com/microsoft/TagAnomaly
+
+https://github.com/KDD-OpenSource/DeepADoTS

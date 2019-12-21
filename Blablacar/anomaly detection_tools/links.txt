@@ -1,0 +1,7 @@
+https://github.com/nicococo/tilitools
+
+https://github.com/AICoE/log-anomaly-detector 
+Le détecteur d'anomalies est un code de projet open source nommé "Project Scorpio". 
+LAD est également utilisé pour faire court. Il peut se connecter à des sources de streaming et produire des prédictions de lignes de journal anormales.
+En interne, il utilise un apprentissage automatique non supervisé. Nous intégrons un certain nombre de modèles d'apprentissage automatique pour atteindre ce résultat.
+In addition it includes a human in the loop feedback system.

@@ -1,0 +1,5 @@
+https://github.com/ymirsky/KitNET-py : 
+La détection d'anomalies dans les flux de données illimités est un problème difficile car les instances observées ne peuvent pas être stockées pour induire de nouveaux modèles
+Ce défi devient encore plus apparent lorsque le flux de données a de nombreuses fonctionnalités (dimensions) et arrive à un rythme élevé.
+Dans ces circonstances, l'ensemble de données est essentiellement du "big-data", ce qui rend la formation hors ligne d'un algorithme d'apprentissage automatique trop lente ou coûteuse.
+KitNET est un détecteur d'anomalies en ligne, non supervisé et efficace.

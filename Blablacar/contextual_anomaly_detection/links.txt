@@ -1,0 +1,2 @@
+https://ieeexplore.ieee.org/document/6906762 :
+Le travail proposé dans cet article décrit une technique contextuelle de détection d'anomalies à utiliser dans les réseaux de capteurs en streaming.

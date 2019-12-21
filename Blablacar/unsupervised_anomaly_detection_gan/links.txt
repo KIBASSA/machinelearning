@@ -1,0 +1,5 @@
+https://github.com/tkwoo/anogan-keras
+Unsupervised anomaly detection with generative model, keras implementation
+
+https://github.com/xtarx/Unsupervised-Anomaly-Detection-with-Generative-Adversarial-Networks
+Unsupervised Anomaly Detection with Generative Adversarial Networks on MIAS dataset
