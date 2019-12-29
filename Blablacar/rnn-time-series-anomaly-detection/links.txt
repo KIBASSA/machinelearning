@@ -1,3 +1,7 @@
+https://towardsdatascience.com/lstm-autoencoder-for-anomaly-detection-e1f4f2ee7ccf
+Utilisation d'un modèle de réseau neuronal d'apprentissage en profondeur à auto-encodeur pour identifier les anomalies vibrationnelles à partir des lectures des capteurs. 
+L'objectif est de prédire les futures défaillances des roulements avant qu'elles ne se produisent.
+
 https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection
 Il s'agit d'une implémentation d'un détecteur d'anomalies de séries temporelles basé sur RNN, qui consiste en une stratégie en deux étapes de prédiction de séries temporelles et de calcul du score d'anomalies.
 
